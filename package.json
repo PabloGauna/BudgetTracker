@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "phantomjs": "^2.1.7",
     "webpack": "^4.15.1"
   },
   "scripts": {
