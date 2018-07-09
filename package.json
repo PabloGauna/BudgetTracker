@@ -1,0 +1,21 @@
+{
+  "name": "budgettracker",
+  "version": "1.0.0",
+  "description": "BudgetTracker",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloGauna/BudgetTracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PabloGauna/BudgetTracker/issues"
+  },
+  "homepage": "https://github.com/PabloGauna/BudgetTracker#readme"
+}
