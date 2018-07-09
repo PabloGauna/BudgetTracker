@@ -4,7 +4,9 @@
   "description": "BudgetTracker",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "webpack": "^4.15.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
